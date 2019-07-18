@@ -14,7 +14,22 @@
 
 
 ul {
+    float: right;
     list-style: lower-alpha;
     margin: 0;
     padding: 0;
+}
+
+
+
+.ft{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: turquoise;
+  color: white;
+  text-align: center;
+  padding: 50px;
+
 }
