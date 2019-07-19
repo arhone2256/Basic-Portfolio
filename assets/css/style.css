@@ -1,4 +1,4 @@
-.Titlename{
+ .Titlename{ 
     font-size: 20px;
     width: 150px;
     height: 75px;
@@ -8,21 +8,21 @@
 }
 
 .aboutme{
-    background-color: turquoise;
-    color: white;
+    color: #4aaaa5;
 }
 
 
 ul {
+    padding: 20px;
     float: right;
     list-style: lower-alpha;
     margin: 0;
-    padding: 0;
+    
 }
 
 
 
-.ft{
+/.ft{ 
     position: fixed;
   left: 0;
   bottom: 0;
@@ -32,4 +32,15 @@ ul {
   text-align: center;
   padding: 50px;
 
-}
+}*/
+
+ .Section { 
+    width :960px;
+    display: block; 
+ }
+
+
+
+
+
+
